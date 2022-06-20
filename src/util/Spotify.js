@@ -1,4 +1,4 @@
-const clientID = 'f9008b3c7764469caf9bdeb33ad54a1b';
+const clientID = '';
 const redirectURI = "http://makeyourplaylist.surge.sh";
 let accessToken;
 const Spotify = {
